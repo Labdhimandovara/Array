@@ -1,4 +1,4 @@
-# Array
+# ArrayandStrings
 
 Aim: To study and implement C++ Arrays and Strings 
 
